@@ -1,0 +1,1 @@
+The project consists of a sentimental analysis of the titles of articles about Iga Świątek from these websites https://www.sport.pl/iga-swiatek, https://www.sport.pl/iga-swiatek/2, https://www.sport.pl/iga-swiatek/3, https://www.sport.pl/iga-swiatek/4, https://www.sport.pl/iga-swiatek/5. This analysis was done using the Naive Bayes classfier.
